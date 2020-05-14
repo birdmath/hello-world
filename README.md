@@ -1,3 +1,3 @@
 # hello-world
-Lear github
+Learn github
 I enjoy riding both bicycles and motorcycles, experience with IT security.
