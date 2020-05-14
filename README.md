@@ -1,2 +1,3 @@
 # hello-world
-Lean github
+Learn github
+I enjoy riding both bicycles and motorcycles, experience with IT security.
